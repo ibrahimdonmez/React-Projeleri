@@ -1,3 +1,3 @@
-## Idea
+## Doğum Günü Uygulaması
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+![Alt text](01-birthday-reminder\public\Page.JPG "Title")
